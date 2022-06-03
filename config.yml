@@ -18,8 +18,8 @@ startup:
 
 discord:
 # Manage your discord settings
-  botToken: "" # Don't forget to enable intents (https://youtu.be/pzxVzEHk4ww?t=35)
-  prefix: "!"
+  botToken: "Nzk0MTY4MDMwMjU4Mzk3MjA0.Gy02cn.mxYL1MzpuE9uzerpnah9oGygtGy-XAaqzMol4A" # Don't forget to enable intents (https://youtu.be/pzxVzEHk4ww?t=35)
+  prefix: "$"
 
 format:
 # Customize your embeds
@@ -31,14 +31,30 @@ format:
 minecraft:
 # Minecraft settings
   auth: "mojang" # Pick either mojang/microsoft
-  serverIP: "play.crystaldev.co"
+  serverIP: "Valexium.org"
   serverPort: "25565"
   version: "1.8.9"
-  joinCommand: "/ruby"
+  joinCommand: "/msg skillzy hello"
   joinDelay: 3 # Time in between alts joining (in seconds)
   joinCommandDelay: 3 # Time in between an alt joining and executing the join command (in seconds)
   hideErrors: true # To hide the "unknown transaction" warning, if you have trouble getting the bots up you might want to change this to false
 
 alts:
 # This can be an infinite amount of alts, remember to fill it out like this "- AltEmail@email.com:Password123!"
-- AltEmail@email.com:Password123!
+- "danab7012@gmail.com:baxter000"
+- "alieninvasionmaster@gmail.com:Bugspray1"
+- "veroniqueouellette@hotmail.com:Mudhoney123"
+- "kyati01@gmail.com:03061360aji"
+- "natalieguerrero2@gmail.com:Readingirl02."
+- "deathboy801@gmail.com:monster1A"
+- "theanimeotaku115@gmail.com:Anime115"
+- "mrmathi@hotmail.no:ferrarri123"
+- "battle.cats.fan@gmail.com:Toonces123"
+- "msheridan1222@gmail.com:Mercysecondary1"
+- "Mthomma00@icloud.com:Mdt021099@"
+- "lffpires@sapo.pt :Vargas15!"
+- "kevin.tollefsen@hotmail.com:neger123"
+- "bustinsmash@gmail.com:jumbocats12"
+- "leupoldkyle@gmail.com:Superman44"
+- "longo101@yahoo.com:Molly101$"
+- "hyena322@att.net:william"
